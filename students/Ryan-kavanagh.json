@@ -1,0 +1,14 @@
+{
+  "firstName": "Ryan",
+  "lastName": "Kavanagh",
+  "nickName": "Just Ryan",
+  "privateName": false,
+  "picture": "https://scontent.fybz2-1.fna.fbcdn.net/v/t1.0-9/71111290_10157423607513632_5852347859441025024_o.jpg?_nc_cat=109&_nc_oc=AQmB3Dx5FETsx-xLmnG42_t3Wjy-OJnfuP5w_EnMPzlpzP8R6qh1T44axqdx2ir-5zc&_nc_ht=scontent.fybz2-1.fna&oh=7c74e7f4fd496713dba1ca99dcdbb273&oe=5E04084B",
+  "privatePicture": false,
+  "email": "ryan.kavanagh@mail.utoronto.ca",
+  "privateEmail": true,
+  "github": "Ryan-kavanagh",
+  "privateGithub": false,
+  "superpower" : "I can always tell where the cutlery is located in other people's houses",
+  "academicinterests": "Romantic poetry and modern/post-modern British literature"
+}
